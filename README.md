@@ -1,4 +1,4 @@
-## 🟢​ Number Rush
+## 🟢​ Number Rush Lite
 
 ## ⚙️ Installation
 
