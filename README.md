@@ -1,4 +1,4 @@
-## 🟢​ Number Rush Lite
+## 🟢​ Number Rush Rewamp
 
 ## ⚙️ Installation
 
