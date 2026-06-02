@@ -277,7 +277,7 @@ int main()
         if (isSelecting) {
             cout << "\033[33m[SELECTION MODE] Move to the target and confirm (SPACE)\033[0m\n\n";
         } else {
-            cout << "Press SPACE to select a cell to swap.\n\n";
+            cout << "Move using arrow keys or ZQSD. Press SPACE to select a cell to swap.\n\n";
         }
 
         displayMatrix(grid, playerPos, isSelecting, selectedPos); 
