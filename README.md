@@ -1,5 +1,5 @@
 ## 🟢​ Number Rush Revamp
-Rewamp of a university group project made at the begenning of 2025.
+Revamp of a university group project made at the begenning of 2025.
 Its a small M.A.C.H. 3 video game made using C++.
 The whole thing is made for Windows in CLI.
 
